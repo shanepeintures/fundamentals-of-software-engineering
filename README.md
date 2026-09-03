@@ -1,2 +1,3 @@
-# fundamentals-of-software-engineering
-Старiков Валерiй 372
+## Student Info
+- Ініціали: С.В.В
+- Група: 372
